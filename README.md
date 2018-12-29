@@ -1,2 +1,3 @@
 # Kaunaj.github.io
-#### And now it begins
+#### And now it begins 
+This is my personal website where I will showcase all my projects as I make them.
